@@ -8,10 +8,10 @@ A portfolio website that can be used to show your projects and other information
 > “Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.”
 >> ~Rumi
 
-> https://zaahidali.github.ioz
+> https://kitakenshin.github.io
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://zahidali.me)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://zaahidali.github.io/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](http://kitakenshin.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://kitakenshin.github.io/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <!-- Website preview code here -->
@@ -38,15 +38,7 @@ A portfolio website that can be used to show your projects and other information
 ✔️ Contact Info \
 ✔️ Blog Section
 
-To view a live example, **[click here](https://zaahidali.github.io/)**
-
-<!-- ### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://zahidali.me" target="_blank"><img src="abc.gif">
-  </a>
-  </kbd>
-</p> -->
+To view a live example, **[click here](https://kitakenshin.github.io/)**
 
 
 ## Tools Used 🛠️
@@ -78,6 +70,6 @@ To view a live example, **[click here](https://zaahidali.github.io/)**
 
 # Contributing 💡
 
-If you can help us to add other pages. Please don't hesitate to open an [pull request](https://github.com/zaahidali/zaahidali.github.io/pulls) or facing any problem create [issue](https://github.com/zaahidali/zaahidali.github.io/issues) here.
+If you can help us to add other pages. Please don't hesitate to open an [pull request](https://github.com/kitakenshin/kitakenshin.github.io/pulls) or facing any problem create [issue](https://github.com/kitakenshin/kitakenshin.github.io/issues) here.
 
 
